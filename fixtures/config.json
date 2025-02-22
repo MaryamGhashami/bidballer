@@ -1,0 +1,54 @@
+{
+  "url": {
+    "Base": {
+      "aws": "https://api.bidballer.com",
+      "stage": "http://44.198.60.30:30007",
+      "local": "http://192.168.2.184:8088",
+      "docker": "http://localhost:8085"
+    },
+    "CSGateWay": {
+      "aws": "https://apicustomergateway.bidballer.com",
+      "stage": "http://44.198.60.30:30008",
+      "local": "http://192.168.2.184:8087",
+      "docker": "http://localhost:8086"
+    },
+    "UserConsumer": {
+      "aws": "https://userconsumerapi.bidballer.com",
+      "stage": "http://44.198.60.30:30006",
+      "local": "http://192.168.2.184:8089",
+      "docker": "http://localhost:8090"
+    },
+    "webSocketUrl": {
+      "aws": "wss://customergateway.bidballer.com:6653",
+      "stage": "http://44.198.60.30:30008",
+      "local": "ws://192.168.2.184:6654",
+      "docker": "ws://localhost:6653"
+    }
+  },
+  "saleID": 400,
+  "users": {
+    "first_user": {
+      "file_addr": "fixtures/init_data/first_customer.json",
+      "username": "johnbidder01@gmail.com",
+      "password": "S@1234s",
+      "paddleNum": "6593"
+    },
+    "second_user": {
+      "file_addr": "fixtures/init_data/second_customer.json",
+      "username": "scottbidder01@gmail.com",
+      "password": "S@1234s",
+      "paddleNum": "1894"
+    },
+    "third_user": {
+      "file_addr": "fixtures/init_data/third_customer.json",
+      "username": "mgbidder01@gmail.com",
+      "password": "S@1234s",
+      "paddleNum": "6198"
+    },
+    "first_clerk": {
+      "file_addr": "fixtures/first_clerk.json",
+      "username": "johnclerk@gmail.com",
+      "password": "S@1234s"
+    }
+  }
+}

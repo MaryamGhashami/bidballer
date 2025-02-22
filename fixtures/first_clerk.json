@@ -1,0 +1,26 @@
+{
+  "login_info": {
+    "RoleGroupID": 40,
+    "UserName": "clerk@gmail.com",
+    "Email": "clerk@gmail.com",
+    "AccountID": 1,
+    "ip": "172.17.0.1",
+    "credentialsNonExpired": true,
+    "CellPhone": "+1(555)555-1234",
+    "GUID": "eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjbGVya0BnbWFpbC5jb20iLCJzYWx0IjoiMDhkMmI5ZjctNDc1ZC00NTM2LWIyZGQtZjZiYzM4ZmE3MWVmIiwidXNlcm5hbWUiOiJjbGVya0BnbWFpbC5jb20iLCJ1c2VySWQiOjMwNDM2LCJyb2xlIjo4MiwidXNlcktpbmRJZCI6MiwiZnVsbE5hbWUiOiJTYW1wbGUgQ2xlcmsiLCJhY2NvdW50SWQiOjEsImFjY291bnROYW1lIjoiQXVjdGlvbiIsImlwIjoiMTcyLjE3LjAuMSIsIm5lZWRNZmEiOmZhbHNlLCJhcHBsaWNhdGlvbklkIjoxLCJmb3JjZVRvQ2hhbmdlUGFzcyI6ZmFsc2UsInN5c3RlbSI6ImNoYW5nZSIsInJvbGVHcm91cElkIjo0MCwiaWF0IjoxNjg3OTU5Mjc0LCJleHAiOjE2ODgwMDI0NzR9.aggHlBceLwd1iqWDh0sdGwLwc5QAu6mTWRBh93TaYDUdHH2M1SwOYHOrzEg4EDkS9Qq3Qm9PHy5M6rX-rxxcig",
+    "UserKind": "ADMIN",
+    "RoleID": 82,
+    "forceToChangePass": false,
+    "enabled": true,
+    "UserKindID": 2,
+    "System": "change",
+    "FormalName": "Sample Clerk",
+    "UserID": 30436,
+    "accountNonExpired": true,
+    "state": 1,
+    "recentlyLoggedIn": false,
+    "username": "clerk@gmail.com",
+    "accountNonLocked": true,
+    "AccountName": "Auction"
+  }
+}

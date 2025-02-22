@@ -1,0 +1,157 @@
+{
+  "username": "testmgh@gmail.com",
+  "password": "1234",
+  "userID": 30850,
+  "saleID": 400,
+  "phoneList": [
+    {
+      "bidType": "1",
+      "lotNumber": "3",
+      "LotID": 403471,
+      "bidValue": [],
+      "status": "accept"
+    },
+    {
+      "bidType": "1",
+      "lotNumber": "4",
+      "LotID": 403473,
+      "bidValue": [],
+      "status": "reject"
+    }
+  ],
+  "bidList": [
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 1,
+      "lotInfo": {},
+      "bidValue": 100,
+      "paddle": 0,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 1,
+      "lotInfo": {},
+      "bidValue": 400,
+      "paddle": 0,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 1,
+      "lotInfo": {},
+      "bidValue": 1000,
+      "paddle": 0,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 2,
+      "lotInfo": {},
+      "bidValue": 300,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 5,
+      "lotInfo": {},
+      "bidValue": 900,
+      "paddle": 0,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 5,
+      "lotInfo": {},
+      "bidValue": 950,
+      "paddle": 0,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 5,
+      "lotInfo": {},
+      "bidValue": 1000,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 6,
+      "lotInfo": {},
+      "bidValue": 100,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 6,
+      "lotInfo": {},
+      "bidValue": 300,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 6,
+      "lotInfo": {},
+      "bidValue": 400,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 7,
+      "lotInfo": {},
+      "bidValue": 200,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 7,
+      "lotInfo": {},
+      "bidValue": 250,
+      "paddle": 1,
+      "expected_status_code": 200
+    },
+    {
+      "BidName": null,
+      "bidType": "1",
+      "lot": 7,
+      "lotInfo": {},
+      "bidValue": 300,
+      "paddle": 1,
+      "expected_status_code": 200
+    }
+  ],
+  "retractlist": [
+    {
+      "LotID": 403468,
+      "status": "reject",
+      "type": "high"
+    },
+    {
+      "LotID": 403474,
+      "status": "accept",
+      "type": "all"
+    }
+  ],
+  "paddleNum": [],
+  "retractreq": []
+}
+"BlotInfo{,
+"expected_status_code":200
